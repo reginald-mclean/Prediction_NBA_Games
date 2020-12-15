@@ -8,3 +8,5 @@ Scikit-learn
 Pandas
 
 There is a file in each folder that contains the parameters for each configuration. 
+
+Feature selection was performed using the feature_selection.py file
