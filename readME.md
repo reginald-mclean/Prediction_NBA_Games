@@ -7,6 +7,8 @@ Keras
 Scikit-learn
 Pandas
 XGBoost
+Numpy
+
 
 There is a file in each folder that contains the parameters for each configuration. 
 
