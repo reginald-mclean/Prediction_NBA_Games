@@ -5,21 +5,15 @@ def load_data(game_avg_counter=5):
     data = np.genfromtxt("./Data/archive_2012_2018/2012-18_teamBoxScore.csv", delimiter=',', dtype=None,
                          encoding=None, names=True)
     df = pd.DataFrame(data)
-    print(df.head())
     df['gmDate'] = pd.to_datetime(df.gmDate)
     df = df.sort_values(by='gmDate')
     df['win%'] = np.nan
     team_ids_dict = {}
     team_ids_list = []
     data_columns = list(df.columns)
-    print(data_columns)
-    print(len(data_columns))
     key_stat_1 = data_columns[14:64+1]
     key_stat_2 = data_columns[70:]
     key_stat_col = key_stat_1 + key_stat_2  # all the columns that need to be averaged
-    print(key_stat_1)
-    print(key_stat_2)
-    print(key_stat_col)
     for index, row in df.iterrows():
         game_date = pd.to_datetime(row['gmDate'])
         if row['teamRslt'] == 'Win':
@@ -35,10 +29,6 @@ def load_data(game_avg_counter=5):
             team_ids_list.append(a)
             team_ids_dict[a] = {}
             team_ids_dict[a][game_date] = row[key_stat_col].to_numpy().copy()
-    # print(team_ids_list)
-    # print(team_ids_dict['TOR']['2012-10-31'])
-    # print(len(team_ids_dict['TOR']['2012-10-31']))
-    # print(len(key_stat_col))
 
     for index, row in df.iterrows():
         game_date = row['gmDate']

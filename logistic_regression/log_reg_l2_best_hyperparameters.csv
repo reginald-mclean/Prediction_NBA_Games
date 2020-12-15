@@ -1,0 +1,4 @@
+,file,C,accuracy
+0,./Data/normalized_5_game_average_final.csv,0.6665268695036998,0.6247582205029013
+1,./Data/normalized_10_game_average_final.csv,84.59723122622769,0.6344294003868471
+2,./Data/normalized_15_game_average_final.csv,96.45130821799475,0.6421663442940039

@@ -1,0 +1,18 @@
+This optimization was performed with: 1000 epochs, regularization = True and file: normalized_15_game_average_final.csv
+
+The highest model accuracy was: 0.6673114119922631
+
+The best hyperparameter values are as follows:
+
+eta >>> 0.0015301109389079433
+
+max_depth >>> 6
+
+gamma >>> 0.07351644552669655
+
+min_child_weight >>> 2
+
+alpha >>> 4.786843830713312
+
+lambda >>> 1.2671051384146887
+

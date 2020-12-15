@@ -1,0 +1,192 @@
+Model: 1000 epochs, regularization = False and file: normalized_5_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.69627797 0.69158065 0.87531799 0.77266249]
+
+Training Std: [0.00270272 0.00263608 0.00637427 0.00281552]
+
+Valid Avg: [0.63152805 0.64611527 0.81708316 0.72125504]
+
+Valid Std: [0.01295361 0.02068667 0.02205279 0.01454289]
+
+Test Avg: [0.61982836 0.63553597 0.80771028 0.71133312]
+
+Test Std: [0.00256341 0.00247893 0.00673079 0.00235271]
+
+Model: 1000 epochs, regularization = True and file: normalized_5_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.67820568 0.68421771 0.84388196 0.75565798]
+
+Training Std: [0.00270443 0.00483511 0.00898181 0.00251853]
+
+Valid Avg: [0.63752418 0.65261837 0.81061395 0.72280775]
+
+Valid Std: [0.02119202 0.02628176 0.02723305 0.02291072]
+
+Test Avg: [0.61915086 0.63942556 0.7876947  0.70578616]
+
+Test Std: [0.00431718 0.005577   0.00967865 0.00191261]
+
+Model: 1000 epochs, regularization = False and file: normalized_10_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.66981497 0.67876831 0.83604647 0.74886895]
+
+Training Std: [0.00555398 0.01085062 0.02513136 0.00497184]
+
+Valid Avg: [0.64042553 0.65847422 0.81052792 0.72595904]
+
+Valid Std: [0.02183974 0.02662111 0.03889902 0.02316895]
+
+Test Avg: [0.62895212 0.6442917  0.80506231 0.71539113]
+
+Test Std: [0.00707914 0.00623633 0.03186881 0.01082316]
+
+Model: 1000 epochs, regularization = True and file: normalized_10_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.66564114 0.68365887 0.80842443 0.73986003]
+
+Training Std: [0.00475025 0.01403923 0.0424571  0.0105662 ]
+
+Valid Avg: [0.62843327 0.6566972  0.77114417 0.70851097]
+
+Valid Std: [0.01619338 0.01191949 0.04939508 0.02064778]
+
+Test Avg: [0.6265131  0.65071302 0.77172897 0.70505443]
+
+Test Std: [0.00768492 0.01196181 0.04655139 0.01442011]
+
+Model: 1000 epochs, regularization = False and file: normalized_15_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.76090792 0.76246106 0.8634596  0.80980692]
+
+Training Std: [0.00818973 0.00764433 0.0062904  0.00615227]
+
+Valid Avg: [0.6589942  0.68242121 0.78245293 0.72890597]
+
+Valid Std: [0.01684119 0.01844624 0.01866054 0.01627578]
+
+Test Avg: [0.64579946 0.66738107 0.77609034 0.71761736]
+
+Test Std: [0.00300828 0.0029365  0.00742331 0.00305129]
+
+Model: 1000 epochs, regularization = True and file: normalized_15_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.72934596 0.73605287 0.84382803 0.78624393]
+
+Training Std: [0.0034167  0.0032177  0.00763698 0.0037228 ]
+
+Valid Avg: [0.64758221 0.66773211 0.78396998 0.72095658]
+
+Valid Std: [0.02238706 0.02752621 0.02542261 0.02395031]
+
+Test Avg: [0.6501355  0.6676727  0.78995327 0.72366593]
+
+Test Std: [0.00287229 0.00281428 0.00620174 0.00260819]
+
+Model: 1000 epochs, regularization = False and file: unnormalized_5_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.70684165 0.70792961 0.85525545 0.77460566]
+
+Training Std: [0.00504489 0.00398228 0.01204707 0.00552929]
+
+Valid Avg: [0.63172147 0.65449799 0.7952061  0.71770628]
+
+Valid Std: [0.01180359 0.01848932 0.01911702 0.01152712]
+
+Test Avg: [0.61364047 0.63742852 0.77445483 0.69920809]
+
+Test Std: [0.00498151 0.00485553 0.01366462 0.00503679]
+
+Model: 1000 epochs, regularization = True and file: unnormalized_5_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.70391566 0.7103194  0.84120708 0.77011228]
+
+Training Std: [0.00600547 0.00608642 0.01762486 0.00656565]
+
+Valid Avg: [0.6106383  0.64135107 0.75611136 0.69354135]
+
+Valid Std: [0.0169077  0.0187751  0.03238266 0.01697307]
+
+Test Avg: [0.60243902 0.63284502 0.75007788 0.6863218 ]
+
+Test Std: [0.00675335 0.00833848 0.01600065 0.00486441]
+
+Model: 1000 epochs, regularization = False and file: unnormalized_10_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.74728916 0.74608427 0.86515005 0.80120149]
+
+Training Std: [0.0040914  0.00417195 0.00594521 0.00342251]
+
+Valid Avg: [0.63597679 0.66858933 0.769004   0.71469098]
+
+Valid Std: [0.01276596 0.02503326 0.0224397  0.01246763]
+
+Test Avg: [0.62895212 0.65527053 0.76004673 0.70375185]
+
+Test Std: [0.00383389 0.00173398 0.01027004 0.00481718]
+
+Model: 1000 epochs, regularization = True and file: unnormalized_10_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.74842943 0.74722631 0.86533551 0.80194004]
+
+Training Std: [0.00441763 0.00424068 0.00599102 0.00359864]
+
+Valid Avg: [0.64584139 0.67317996 0.78633652 0.72511085]
+
+Valid Std: [0.01443438 0.01661803 0.02071168 0.01224145]
+
+Test Avg: [0.63238482 0.65819167 0.76176012 0.70617349]
+
+Test Std: [0.0047348  0.00412087 0.00779167 0.00409826]
+
+Model: 1000 epochs, regularization = False and file: unnormalized_15_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.68214286 0.69790023 0.8124236  0.75056833]
+
+Training Std: [0.00315496 0.00651317 0.02313851 0.00661954]
+
+Valid Avg: [0.64448743 0.67183029 0.77968987 0.72101175]
+
+Valid Std: [0.01204208 0.02031044 0.03317709 0.01248909]
+
+Test Avg: [0.63915989 0.66027116 0.77936137 0.71455712]
+
+Test Std: [0.0042054  0.00771947 0.02580939 0.00720871]
+
+Model: 1000 epochs, regularization = True and file: unnormalized_15_game_average_final.csv
+
+Model Metrics: [Accuracy, Precision, Recall, F1]: 
+
+Training Avg: [0.69569707 0.70411552 0.83122198 0.76230851]
+
+Training Std: [0.00390856 0.00517262 0.01441212 0.00472964]
+
+Valid Avg: [0.66595745 0.69496303 0.80104434 0.74410385]
+
+Valid Std: [0.01176709 0.01528791 0.01436876 0.01106777]
+
+Test Avg: [0.64733514 0.66513354 0.78956386 0.72196159]
+
+Test Std: [0.00326205 0.00486427 0.01007537 0.002622  ]
+
